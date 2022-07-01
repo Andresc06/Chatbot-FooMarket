@@ -1,7 +1,7 @@
 # Tipo de usuario
 - [ ] Diego 
 - [ ] Carlos 
-- [ ] Andrés`
+- [ ] Andrés
 - [ ] Enif
 - [ ] Gabriela
 
