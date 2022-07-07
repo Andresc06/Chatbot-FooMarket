@@ -18,8 +18,9 @@
 - JavaScript [![JavaScipt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/20px-JavaScript-logo.png)](https://developer.mozilla.org/es/docs/Web/JavaScript) 
 - NodeJS [![NodeJS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/45px-Node.js_logo.svg.png?20170401104355)](https://nodejs.org/es/)
 - Netlify [![Netlify](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/55px-Netlify_logo.svg.png?20180815190440)](https://www.netlify.com/)
-- MongoDB [![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/65px-MongoDB_Logo.svg.png)](https://www.mongodb.com/es)
+- MongoDB [![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/100px-MongoDB_Logo.svg.png)](https://www.mongodb.com/es)
 - Telebot API [![Telegram Bot API](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/20px-Telegram_logo.svg.png?20220101141644)](https://core.telegram.org/bots/api)
+- [Railway](https://railway.app)
 ---
 ### Dependencias 🗄
 - [NodeMailer](https://nodemailer.com/about/)
@@ -32,7 +33,7 @@
 - [i18n](https://www.npmjs.com/package/i18n)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 ---
-## Quieres Contribuir? 📎🚩
+## ¿Quieres Contribuir? 📎🚩
 
 En la carpeta docs/ obtendras tanto el [CODE_OF_CONDUCT.md](https://github.com/diegoarff/Chatbot-FooMarket/blob/main/docs/CODE_OF_CONDUCT.md) como el [PULL_REQUEST_TEMPLATE.md](https://github.com/diegoarff/Chatbot-FooMarket/blob/main/docs/PULL_REQUEST_TEMPLATE.md) para nuestro codigo de conducta y proceso de contribuciones.
   
